@@ -146,6 +146,7 @@
             button9.TabIndex = 0;
             button9.Text = "2";
             button9.UseVisualStyleBackColor = true;
+            button9.Click += NumbersBtn_Click;
             button9.KeyDown += NumbersBtn_Click;
             // 
             // button10
@@ -168,6 +169,7 @@
             button11.TabIndex = 0;
             button11.Text = "3";
             button11.UseVisualStyleBackColor = true;
+            button11.Click += NumbersBtn_Click;
             // 
             // label1
             // 

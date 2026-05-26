@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ContentChange/ContentChange.csproj" />
+  <Project Path="GuessNumber/GuessNumber.csproj" />
   <Project Path="INeedMoney/INeedMoney.csproj" />
   <Project Path="KFC/KFC.csproj" />
   <Project Path="StringGroupBy/StringGroupBy.csproj" />
