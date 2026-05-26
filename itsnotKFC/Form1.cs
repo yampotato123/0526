@@ -6,5 +6,10 @@ namespace itsnotKFC
         {
             InitializeComponent();
         }
+
+        private void Numberbutton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
