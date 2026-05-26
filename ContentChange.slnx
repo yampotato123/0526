@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ContentChange/ContentChange.csproj" />
+  <Project Path="itsnotKFC/itsnotKFC.csproj" />
+</Solution>
