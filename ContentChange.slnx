@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/soulNumber/">
+    <Project Path="LifeSoulNumber/LifeSoulNumber.csproj" Id="c6e87bc9-8a26-4983-a841-422eeaded507" />
+  </Folder>
   <Project Path="ContentChange/ContentChange.csproj" />
   <Project Path="GuessNumber/GuessNumber.csproj" />
   <Project Path="INeedMoney/INeedMoney.csproj" />
